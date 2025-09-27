@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headless Cross Community Orchard</title>
+    <link rel="stylesheet" href="style/links.css">
+    <!-- Minimal Font Awesome (free) for brand icons (no integrity attr to avoid blocking during offline/dev) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Connect With Us</h1>
+            <p>Follow us on social media and stay up to date</p>
+        </div>
+
+        <div class="social-grid">
+            <div class="grid-row">
+                <a href="https://www.facebook.com/HeadlessCrossCommunityOrchard/" class="social-link" target="_blank" rel="noopener noreferrer">
+                    <div class="social-icon facebook"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></div>
+                    <div class="social-content">
+                        <h3>Facebook Page</h3>
+                    </div>
+                </a>
+
+                <a href="https://www.facebook.com/groups/309217381794" class="social-link" target="_blank" rel="noopener noreferrer">
+                    <div class="social-icon facebook"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></div>
+                    <div class="social-content">
+                        <h3>Facebook Group</h3>
+                    </div>
+                </a>
+
+                <a href="https://www.instagram.com/headlesscrosscommunityorchard/" class="social-link" target="_blank" rel="noopener noreferrer">
+                    <div class="social-icon instagram"><i class="fa-brands fa-instagram" aria-hidden="true"></i></div>
+                    <div class="social-content">
+                        <h3>Instagram</h3>
+                    </div>
+                </a>
+
+                <a href="https://sites.google.com/site/headlesscrossorchard/" class="social-link" target="_blank" rel="noopener noreferrer">
+                    <div class="social-icon twitter"><i class="fa-brands fa-google" aria-hidden="true"></i></div>
+                    <div class="social-content">
+                        <h3>Google Site</h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="grid-row">
+                <a href="https://headlesscrosscommunityorchard.org/" class="social-link" target="_blank" rel="noopener noreferrer">
+                    <div class="social-icon linkedin"><i class="fa-solid fa-globe" aria-hidden="true"></i></div>
+                    <div class="social-content">
+                        <h3>New Website</h3>
+                    </div>
+                </a>
+
+                <a href="mailto:hxcommunityorchard@gmail.com" class="social-link" target="_blank" rel="noopener noreferrer">
+                    <div class="social-icon youtube"><i class="fa-solid fa-envelope" aria-hidden="true"></i></div>
+                    <div class="social-content">
+                        <h3>Email</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2025 Headless Cross Community Orchard. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
+
