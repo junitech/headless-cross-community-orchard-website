@@ -1,3 +1,7 @@
+html {
+  background-color: #3B5319;
+}
+
 .img-container {
     display: flex;
     justify-content: center;
