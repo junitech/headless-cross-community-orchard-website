@@ -11,7 +11,7 @@ html, body {
   display: block;
   overflow: hidden;
   /* Background image instead of inline <img> so we can control contain/position cleanly */
-  background-image: url('../media/images/apple-day-2025.jpg');
+  background-image: url('../media/images/revised-apple-day-2025.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain; /* preserve aspect ratio, no clipping */
